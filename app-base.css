@@ -49,6 +49,10 @@ table.grid td.left, table.grid th.left {
 	text-align: left;
 }
 
+table.grid td.center, table.grid th.center {
+	text-align: center;
+}
+
 option {
 	padding: 0px;
 }
