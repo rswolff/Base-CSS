@@ -1,0 +1,73 @@
+body {
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: Helvetica, Arial;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Helvetica, Arial;
+	font-size: 18px;
+	font-weight: bold;	
+}
+
+label {
+	font-family: Helvetica;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+input, select, option, textarea {
+	font-family: "Lucida Grande";
+	font-size: 12px;
+	padding: 2px;
+}
+
+textarea {
+	line-height: 20px;
+}
+
+table.grid {
+	border-collapse: collapse;
+}
+
+table.grid td, table.grid th {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	height: 25px;
+}
+
+table.grid td.right, table.grid th.right {
+	text-align: right;
+}
+
+table.grid td.left, table.grid th.left {
+	text-align: left;
+}
+
+option {
+	padding: 0px;
+}
+
+ul#nav {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+ul#nav li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+.short {
+	width: 25px;
+}
+
+.medium {
+	width: 50px;
+}
