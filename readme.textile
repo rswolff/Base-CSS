@@ -1,0 +1,3 @@
+h1. Base CSS for an Application
+
+These are base css style for an application.
