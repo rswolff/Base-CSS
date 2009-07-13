@@ -75,3 +75,15 @@ ul#nav li {
 .medium {
 	width: 50px;
 }
+
+/* pagination */
+div.pagination .current {
+	background-color: #ccc;
+}
+
+div.pagination a {
+	border: 1px solid #ccc;
+	padding: 3px;
+}
+
+
