@@ -77,13 +77,15 @@ ul#nav li {
 }
 
 /* pagination */
-div.pagination .current {
+div.pagination {
+	margin-bottom: 30px;
+}
+
+div.pagination span.current {
 	background-color: #ccc;
 }
 
-div.pagination a {
+div.pagination a, div.pagination span.current, div.pagination span.disabled {
 	border: 1px solid #ccc;
-	padding: 3px;
+	padding: 5px;
 }
-
-
